@@ -4,5 +4,7 @@ $(function () {
     $('#pencet').toggleClass('Diam');
     
  });
- 
+ $('.drop-down').click(function(){
+    $('.drop-down-ul').toggleClass('display-dropdown');
+ })
 });
