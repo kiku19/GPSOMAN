@@ -29,6 +29,10 @@ a, a:hover, a.active, a:active, a:visited, a:focus{
   color:#fefefe;
   text-decoration:none;
 }
+ul.exo-menu.aos-init.aos-animate.display {
+   
+    transform: translate(-1px, 0px);
+}
 .content{
   margin: 50px 100px 0px 100px;
 }
