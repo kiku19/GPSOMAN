@@ -374,7 +374,8 @@ li.flyout-mega>a:hover +.flyout-mega-wrap{
     display: flex;
     padding: 20px 22px;
     justify-content: center;
-    background-color: darkturquoise !important;
+    background-image: linear-gradient(to right, #00587a, #002f43);
+    color: white !important;
     font-size: 15px;
   }
   
