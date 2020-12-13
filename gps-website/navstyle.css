@@ -445,11 +445,11 @@ p.lead.mb-0 {
   {
     display: flex!important;
   }
-}
-
-
-.display-dropdown
+	.display-dropdown
 {
   height: 0px;
   overflow: hidden;
 }
+}
+
+
